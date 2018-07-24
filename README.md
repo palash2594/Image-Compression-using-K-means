@@ -13,3 +13,5 @@ Implementation is done in python using Scikit-learn ML library.
 ![compressed_scenery_25](https://user-images.githubusercontent.com/26905542/43135602-97b3bbf8-8f63-11e8-8ef3-6c8142715456.png)
 
 <h3> Compressed image after compressed down to 75 clusters. </h3>
+
+![compressed_scenery_75](https://user-images.githubusercontent.com/26905542/43145305-bb12dd90-8f7c-11e8-811c-0e7ecf436597.png)
