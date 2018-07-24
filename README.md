@@ -4,6 +4,10 @@ k-means clustering is a method of vector quantization it aims to partition n obs
 
 <h3> Below is the image. </h3>
 
+![scenery](https://user-images.githubusercontent.com/26905542/43135559-6fde2f0a-8f63-11e8-8468-10f1cee41670.png)
+
 <h3> Compressed image after compressed down to 25 clusters. </h3>
+
+![compressed_scenery_25](https://user-images.githubusercontent.com/26905542/43135602-97b3bbf8-8f63-11e8-8ef3-6c8142715456.png)
 
 <h3> Compressed image after compressed down to 75 clusters. </h3>
